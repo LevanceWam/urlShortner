@@ -1,11 +1,11 @@
 {
   "name": "newci",
   "version": "1.0.0",
-  "description": "",
+  "description": "# Prerequisites",
   "main": "src/tool.js",
   "scripts": {
     "start": "node src/server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "chapman",
   "license": "ISC",
@@ -14,5 +14,9 @@
   },
   "devDependencies": {
     "chai": "^3.5.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
 }
