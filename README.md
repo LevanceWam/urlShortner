@@ -1,6 +1,7 @@
+[![CircleCI](https://circleci.com/gh/LevanceWam/urlShortner.svg?style=svg)](https://circleci.com/gh/LevanceWam/urlShortner)
 # Basic Installation and Testing.
 
-# Prerequisites 
+# Prerequisites
 
 * node
 * npm
